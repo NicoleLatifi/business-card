@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Nicole Latifi's business card",
   "main": "index.js",
+  "bin": {
+    "business-card": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
