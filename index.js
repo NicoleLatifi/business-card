@@ -1,4 +1,4 @@
-#!usr/bin/env node
+#!/usr/bin/env node
 console.log(`
   Nicole Latifi
   email - Nicole.Latifi@gmail.com
